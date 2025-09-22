@@ -11,5 +11,3 @@ match operation:
         print(num1 * num2)
     case "/":
         print(num1 / num2)
-    case _:
-        print("I cannot help you")
